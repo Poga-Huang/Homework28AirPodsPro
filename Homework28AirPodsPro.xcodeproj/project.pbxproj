@@ -13,6 +13,7 @@
 		D677D769275743B100B7671D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D677D767275743B100B7671D /* Main.storyboard */; };
 		D677D76B275743B600B7671D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D677D76A275743B600B7671D /* Assets.xcassets */; };
 		D677D76E275743B600B7671D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D677D76C275743B600B7671D /* LaunchScreen.storyboard */; };
+		D677D77627574C2800B7671D /* AirPodsProLetteringTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D677D77527574C2800B7671D /* AirPodsProLetteringTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D677D76A275743B600B7671D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D677D76D275743B600B7671D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D677D76F275743B600B7671D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D677D77527574C2800B7671D /* AirPodsProLetteringTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AirPodsProLetteringTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				D677D763275743B100B7671D /* SceneDelegate.swift */,
 				D677D765275743B100B7671D /* ViewController.swift */,
 				D677D767275743B100B7671D /* Main.storyboard */,
+				D677D77527574C2800B7671D /* AirPodsProLetteringTableViewController.swift */,
 				D677D76A275743B600B7671D /* Assets.xcassets */,
 				D677D76C275743B600B7671D /* LaunchScreen.storyboard */,
 				D677D76F275743B600B7671D /* Info.plist */,
@@ -141,6 +144,7 @@
 				D677D766275743B100B7671D /* ViewController.swift in Sources */,
 				D677D762275743B100B7671D /* AppDelegate.swift in Sources */,
 				D677D764275743B100B7671D /* SceneDelegate.swift in Sources */,
+				D677D77627574C2800B7671D /* AirPodsProLetteringTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
